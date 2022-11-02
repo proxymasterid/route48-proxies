@@ -25,7 +25,7 @@ fi
 echo "↓ Server IPv4 address from route48:"
 read TUNNEL_IPV4_ADDR
 if [[ ! "$TUNNEL_IPV4_ADDR" ]]; then
-  echo "● IPv4 address can't be emty"
+  echo "● IPv4 address can't be empty"
   exit 1
 fi
 
@@ -37,7 +37,7 @@ if [[ "$PROXY_LOGIN" ]]; then
   echo "↓ Proxies password:"
   read PROXY_PASS
   if [[ ! "PROXY_PASS" ]]; then
-    echo "● Proxies pass can't be emty"
+    echo "● Proxies pass can't be empty"
     exit 1
   fi
 fi
