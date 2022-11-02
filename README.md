@@ -43,7 +43,9 @@ sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/astridytb/route48-pr
 
 -   [3proxy](https://github.com/z3APA3A/3proxy)
 -   [ndppd](https://github.com/DanielAdolfsson/ndppd)
--   some guides from https://blog.vpsville.ru/blog
+
+# Support me By Subscribe to My YouTube Channel Only, and watching my video https://www.youtube.com/c/RunakoNoia
+
 
 # Suggestions
 
