@@ -28,7 +28,7 @@ sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/astridytb/route48-pr
 1. Prepare your own server with a Debian based os.
    It's much better if you only use the server for your proxies and nothing more, because this script changes some system configurations that may affect your other applications. Cheap VPS servers are a great choice.
 2. [Create New Tunnel](https://app.route48.org/tunnels/create?tid=762030#:~:text=Create%20New%20Tunnel)
-3. Install the script on your server with [one simple command](https://github.com/astridytb/tunnelbroker-proxies/blob/main/README.md#installation)
+3. Install the script on your server with [one simple command](https://github.com/astridytb/route48-proxies/blob/main/README.md#installation)
 4. After installation, the server will be rebooted
 5. The list of tunnels is located in your home directory (~/tunnels.txt)
 
