@@ -19,7 +19,7 @@ The script establishes 6to4 tunnels. You connect to your server's ipv4 address o
 # Installation
 
 ```
-sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/astridytb/route48-proxies/main/configure.sh)"
+sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/proxymasterid/route48-proxies/main/configure.sh)"
 ```
 
 # How to start
