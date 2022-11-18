@@ -44,8 +44,8 @@ sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/proxymasterid/route4
 -   [3proxy](https://github.com/z3APA3A/3proxy)
 -   [ndppd](https://github.com/DanielAdolfsson/ndppd)
 
-# Support me By Subscribe to My YouTube Channel Only, and watching my video https://www.youtube.com/c/RunakoNoia
-
+# Website
+https://proxymaster.my.id
 
 # Suggestions
 
